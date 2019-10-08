@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import SpecialButton from './SpecialButton'
 import { specials } from '../../../data';
-console.log('Specials array:', specials);
+// console.log('Specials array:', specials);
 
 export default function Specials() {
 

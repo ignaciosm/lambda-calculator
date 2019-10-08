@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import OperatorButton from './OperatorButton'
 import { operators } from '../../../data';
-console.log('Operators object:', operators);
+// console.log('Operators object:', operators);
 
 export default function Operators() {
 
